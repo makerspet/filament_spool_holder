@@ -2,6 +2,6 @@
 
 Please read the most-up-to-date instructions here https://remake.ai/blog/airtight-filament-spool-container/.
 
-![PXL_20230827_211120454](https://github.com/kaiaai/filament_spool_holder/assets/33589365/fd15d5c7-2be1-468f-8ecd-a360c8750c1b)
+![PXL_20230828_025257957-1024x771](https://github.com/makerspet/filament_spool_holder/assets/143911662/8738571c-254a-42fe-8f43-c2fa891d8c92)
 
-![spool-holder-assembly](https://github.com/kaiaai/filament_spool_holder/assets/33589365/50aeb3f6-8b33-4f3a-8363-4f4d6d0c5577)
+![spool-holder-assembly-1024x576](https://github.com/makerspet/filament_spool_holder/assets/143911662/89efbe9c-cbb8-4ffa-a845-73fb9b8db049)
